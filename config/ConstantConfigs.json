@@ -1,0 +1,4 @@
+{
+    "Market_Cap_Base_Url": "https://pro-api.coinmarketcap.com/v1/cryptocurrency/",
+    "Market_Cap_Map_Trailing_Url": "map"
+}

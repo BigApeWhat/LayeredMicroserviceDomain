@@ -1,0 +1,593 @@
+{
+    "status": {
+        "timestamp": "2020-01-07T21:22:11.936Z",
+        "error_code": 0,
+        "error_message": null,
+        "elapsed": 9,
+        "credit_count": 1,
+        "notice": null
+    },
+    "data": [
+        {
+            "id": 460,
+            "slug": "clams",
+            "is_active": 1,
+            "rank": 610,
+            "first_historical_data": "2014-08-26T02:34:53.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 463,
+            "name": "BitShares",
+            "symbol": "BTS",
+            "slug": "bitshares",
+            "is_active": 1,
+            "first_historical_data": "2014-07-21T03:44:18.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 470,
+            "name": "Viacoin",
+            "symbol": "VIA",
+            "slug": "viacoin",
+            "is_active": 1,
+            "rank": 445,
+            "first_historical_data": "2014-07-18T12:24:19.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 495,
+            "symbol": "IOC",
+            "slug": "iocoin",
+            "is_active": 1,
+            "rank": 776,
+            "first_historical_data": "2014-08-02T18:34:22.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 501,
+            "name": "Cryptonite",
+            "symbol": "XCN",
+            "slug": "cryptonite",
+            "is_active": 1,
+            "rank": 1565,
+            "first_historical_data": "2014-08-02T21:19:20.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 502,
+            "name": "Carboncoin",
+            "symbol": "CARBON",
+            "slug": "carboncoin",
+            "is_active": 1,
+            "rank": 1461,
+            "first_historical_data": "2014-08-02T21:19:20.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 506,
+            "name": "CannabisCoin",
+            "symbol": "CANN",
+            "slug": "cannabiscoin",
+            "is_active": 1,
+            "rank": 1003,
+            "first_historical_data": "2014-08-02T22:04:20.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 512,
+            "name": "Stellar",
+            "symbol": "XLM",
+            "slug": "stellar",
+            "is_active": 1,
+            "rank": 11,
+            "first_historical_data": "2014-08-05T05:44:19.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 513,
+            "name": "Titcoin",
+            "symbol": "TIT",
+            "slug": "titcoin",
+            "is_active": 1,
+            "rank": 1793,
+            "first_historical_data": "2014-08-26T02:34:55.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 520,
+            "name": "Virtacoin",
+            "symbol": "VTA",
+            "slug": "virtacoin",
+            "is_active": 1,
+            "rank": 1957,
+            "first_historical_data": "2014-08-09T17:54:19.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 536,
+            "name": "Joincoin",
+            "symbol": "J",
+            "slug": "joincoin",
+            "is_active": 1,
+            "rank": 1924,
+            "first_historical_data": "2014-08-26T02:34:56.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 541,
+            "name": "Syscoin",
+            "symbol": "SYS",
+            "slug": "syscoin",
+            "is_active": 1,
+            "rank": 184,
+            "first_historical_data": "2014-08-20T11:04:21.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 558,
+            "name": "Emercoin",
+            "symbol": "EMC",
+            "slug": "emercoin",
+            "is_active": 1,
+            "rank": 494,
+            "first_historical_data": "2014-08-23T21:24:22.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 572,
+            "name": "RabbitCoin",
+            "symbol": "RBBT",
+            "slug": "rabbitcoin",
+            "is_active": 1,
+            "rank": 2327,
+            "first_historical_data": "2014-08-30T22:24:22.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 573,
+            "name": "Burst",
+            "symbol": "BURST",
+            "slug": "burst",
+            "is_active": 1,
+            "rank": 328,
+            "first_historical_data": "2014-08-30T22:24:22.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 576,
+            "name": "GameCredits",
+            "symbol": "GAME",
+            "slug": "gamecredits",
+            "is_active": 1,
+            "rank": 592,
+            "first_historical_data": "2014-09-01T16:54:21.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 584,
+            "name": "NativeCoin",
+            "symbol": "N8V",
+            "slug": "native-coin",
+            "is_active": 1,
+            "rank": 637,
+            "first_historical_data": "2014-09-06T15:54:23.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 588,
+            "name": "Ubiq",
+            "symbol": "UBQ",
+            "slug": "ubiq",
+            "is_active": 1,
+            "rank": 605,
+            "first_historical_data": "2014-09-07T21:39:22.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 597,
+            "name": "Opal",
+            "symbol": "OPAL",
+            "slug": "opal",
+            "is_active": 1,
+            "rank": 1480,
+            "first_historical_data": "2014-09-13T17:14:25.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 601,
+            "name": "Acoin",
+            "symbol": "ACOIN",
+            "slug": "acoin",
+            "is_active": 1,
+            "rank": 1758,
+            "first_historical_data": "2014-09-13T19:44:22.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 623,
+            "name": "bitUSD",
+            "symbol": "BITUSD",
+            "slug": "bitusd",
+            "is_active": 1,
+            "rank": 747,
+            "first_historical_data": "2014-09-23T04:24:22.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": {
+                "id": 463,
+                "name": "BitShares",
+                "symbol": "BTS",
+                "slug": "bitshares",
+                "token_address": "USD"
+            }
+        },
+        {
+            "id": 624,
+            "name": "bitCNY",
+            "symbol": "BITCNY",
+            "slug": "bitcny",
+            "is_active": 1,
+            "rank": 349,
+            "first_historical_data": "2014-09-23T04:24:22.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": {
+                "id": 463,
+                "name": "BitShares",
+                "symbol": "BTS",
+                "slug": "bitshares",
+                "token_address": "CNY"
+            }
+        },
+        {
+            "id": 625,
+            "symbol": "BITBTC",
+            "slug": "bitbtc",
+            "rank": 1545,
+            "first_historical_data": "2014-09-23T04:24:21.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": {
+                "id": 463,
+                "name": "BitShares",
+                "symbol": "BTS",
+                "slug": "bitshares",
+                "token_address": "BTC"
+            }
+        },
+        {
+            "id": 626,
+            "name": "NuBits",
+            "symbol": "USNBT",
+            "slug": "nubits",
+            "is_active": 1,
+            "rank": 1055,
+            "first_historical_data": "2014-09-24T01:34:23.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 629,
+            "name": "Magi",
+            "symbol": "XMG",
+            "slug": "magi",
+            "is_active": 1,
+            "rank": 1288,
+            "first_historical_data": "2014-09-24T03:04:23.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 633,
+            "name": "ExclusiveCoin",
+            "symbol": "EXCL",
+            "slug": "exclusivecoin",
+            "is_active": 1,
+            "rank": 1176,
+            "first_historical_data": "2014-09-30T07:54:21.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 644,
+            "name": "GlobalBoost-Y",
+            "symbol": "BSTY",
+            "slug": "globalboost-y",
+            "is_active": 1,
+            "rank": 1165,
+            "first_historical_data": "2014-10-03T12:39:24.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 656,
+            "name": "Prime-XI",
+            "symbol": "PXI",
+            "rank": 1955,
+            "first_historical_data": "2014-10-04T20:54:34.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 693,
+            "name": "Verge",
+            "symbol": "XVG",
+            "slug": "verge",
+            "rank": 71,
+            "first_historical_data": "2014-10-25T22:14:26.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 699,
+            "name": "NuShares",
+            "symbol": "NSR",
+            "slug": "nushares",
+            "is_active": 1,
+            "rank": 862,
+            "first_historical_data": "2014-10-25T23:14:26.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": {
+                "id": 626,
+                "name": "NuBits",
+                "symbol": "USNBT",
+                "slug": "nubits",
+                "token_address": ""
+            }
+        },
+        {
+            "id": 702,
+            "name": "SpreadCoin",
+            "symbol": "SPR",
+            "slug": "spreadcoin",
+            "is_active": 1,
+            "rank": 1787,
+            "first_historical_data": "2014-10-26T23:24:27.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 703,
+            "name": "Rimbit",
+            "symbol": "RBT",
+            "slug": "rimbit",
+            "is_active": 1,
+            "rank": 1541,
+            "first_historical_data": "2014-10-26T23:24:28.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 706,
+            "name": "MonetaryUnit",
+            "symbol": "MUE",
+            "slug": "monetaryunit",
+            "is_active": 1,
+            "rank": 865,
+            "first_historical_data": "2014-11-01T20:59:25.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 707,
+            "name": "Blocknet",
+            "symbol": "BLOCK",
+            "is_active": 1,
+            "rank": 471,
+            "first_historical_data": "2014-11-01T21:19:26.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 719,
+            "name": "Limitless VIP",
+            "slug": "limitless-vip",
+            "is_active": 1,
+            "rank": 1305,
+            "first_historical_data": "2014-11-08T22:54:25.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 720,
+            "name": "Crown",
+            "symbol": "CRW",
+            "slug": "crown",
+            "is_active": 1,
+            "rank": 883,
+            "first_historical_data": "2014-11-08T22:54:25.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 723,
+            "name": "BitBay",
+            "symbol": "BAY",
+            "slug": "bitbay",
+            "is_active": 1,
+            "rank": 544,
+            "first_historical_data": "2014-11-16T22:24:25.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 730,
+            "name": "GCN Coin",
+            "symbol": "GCN",
+            "slug": "gcn-coin",
+            "is_active": 1,
+            "rank": 1494,
+            "first_historical_data": "2014-11-16T23:54:26.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 733,
+            "name": "Quotient",
+            "symbol": "XQN",
+            "slug": "quotient",
+            "is_active": 1,
+            "rank": 2334,
+            "first_historical_data": "2014-11-23T20:09:28.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 760,
+            "name": "OKCash",
+            "symbol": "OK",
+            "slug": "okcash",
+            "is_active": 1,
+            "rank": 752,
+            "first_historical_data": "2014-12-14T03:29:25.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 764,
+            "name": "PayCoin",
+            "symbol": "XPY",
+            "slug": "paycoin2",
+            "is_active": 1,
+            "rank": 1660,
+            "first_historical_data": "2014-12-16T05:34:25.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 778,
+            "name": "bitGold",
+            "symbol": "BITGOLD",
+            "slug": "bitgold",
+            "is_active": 1,
+            "rank": 1703,
+            "first_historical_data": "2015-01-04T20:29:24.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": {
+                "id": 463,
+                "name": "BitShares",
+                "symbol": "BTS",
+                "slug": "bitshares",
+                "token_address": "GOLD"
+            }
+        },
+        {
+            "id": 789,
+            "name": "Nexus",
+            "symbol": "NXS",
+            "slug": "nexus",
+            "is_active": 1,
+            "rank": 187,
+            "first_historical_data": "2015-01-25T18:54:23.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 799,
+            "name": "SmileyCoin",
+            "symbol": "SMLY",
+            "slug": "smileycoin",
+            "is_active": 1,
+            "rank": 1183,
+            "first_historical_data": "2015-01-28T04:49:22.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 813,
+            "name": "bitSilver",
+            "symbol": "BITSILVER",
+            "slug": "bitsilver",
+            "is_active": 1,
+            "rank": 1789,
+            "platform": {
+                "id": 463,
+                "name": "BitShares",
+                "symbol": "BTS",
+                "slug": "bitshares",
+                "token_address": "SILVER"
+            }
+        },
+        {
+            "id": 815,
+            "name": "Kobocoin",
+            "symbol": "KOBO",
+            "slug": "kobocoin",
+            "is_active": 1,
+            "rank": 1542,
+            "first_historical_data": "2015-02-15T15:14:25.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 819,
+            "name": "Bean Cash",
+            "symbol": "BITB",
+            "slug": "bean-cash",
+            "is_active": 1,
+            "rank": 843,
+            "first_historical_data": "2015-02-18T13:19:25.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 823,
+            "name": "GeoCoin",
+            "symbol": "GEO",
+            "slug": "geocoin",
+            "first_historical_data": "2015-02-22T02:14:25.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": {
+                "id": 588,
+                "name": "Ubiq",
+                "symbol": "UBQ",
+                "slug": "ubiq",
+                "token_address": "0x500684ce0d4f04abedff3e54fcf8acc5e6cfc4bd"
+            }
+        },
+        {
+            "id": 825,
+            "name": "Tether",
+            "symbol": "USDT",
+            "is_active": 1,
+            "rank": 4,
+            "first_historical_data": "2015-02-25T13:34:26.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": {
+                "id": 83,
+                "name": "Omni",
+                "symbol": "OMNI",
+                "slug": "omni",
+                "token_address": "31"
+            }
+        },
+        {
+            "id": 831,
+            "name": "Wild Beast Block",
+            "slug": "wild-beast-block",
+            "is_active": 1,
+            "rank": 1959,
+            "first_historical_data": "2015-02-28T17:14:25.000Z",
+            "last_historical_data": "2020-01-07T21:19:01.000Z",
+            "platform": null
+        }
+    ]
+}
