@@ -5,7 +5,7 @@ const throwError = require('../mocks/ThrowError');
 
 // You want to run agaist a live environment, and have multiple environment such as dev, qa, and production
 // Here is also for doing sequential calls, for example update then get and check if update worked correctly
-// Can also check live integration tests
+// Can also check live integration tests, you want to have lots of checks with all possible inputs
 const baseUrl = 'http://localhost:5060/api/v1/';
 
 describe('GET MarketCap + map url schema testing', () => {
